@@ -4,32 +4,18 @@ about: Crie um issue referente ao bug para nos ajudar a resolver o problema
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Descreva o Problema**
+Seja claro e coerente na hora de explicar. Isso vai ajudar a todos a encontrar uma solução bem rápida.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Como reproduzir**
+Passos para reproduzir o problema:
+1. Va até '...'
+2. Clique em '....'
+3. Faça isso '....'
+4. Veja o erro
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Resultado esperado**
+Seja claro e coerente no resultado e o que ele deveria fazer. Também, mostre qual foi o resultado.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+Se você tiver, irá ajudar a explicar melhor o problema. Você pode usar sites como https://imgur.com/ para postar suas screenshots.
