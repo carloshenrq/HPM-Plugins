@@ -1,5 +1,4 @@
 /*
-Allow up to 30k items in storage creating new entry.
 Copyright (C) 2018  CarlosHenrq
 
 This program is free software: you can redistribute it and/or modify
