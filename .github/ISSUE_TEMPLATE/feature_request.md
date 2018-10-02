@@ -1,17 +1,14 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Pedido/Sugestão
+about: Faça um pedido ou dê uma sugestão aos plugins
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Esta sugestão está relacionada com algum problema? Explique.**
+Uma explicação clara e coerente do tipo de problema. Exemplo: Sempre que uso isso, sinto falta de [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Descreva uma solução que você gostaria**
+Seja claro e coerente no que você gostaria que fosse feito.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Dê outras alternativas que você tem em mente**
+Soluções alternativas são sempre bem-vindas! Seja claro e coerente para suas alternativas.
